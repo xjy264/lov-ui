@@ -1,0 +1,9 @@
+{
+  "name": "LovBrowser AI Hub",
+  "description": "A comprehensive browser-based AI integration platform featuring multiple AI services, browser automation management, and a community prompt square.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
